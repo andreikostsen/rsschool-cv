@@ -40,3 +40,15 @@ Position: Senior sales manager/sales manager\
 *JSC GlobalOneBel*\
 Product: telecommunication services\
 Customers: representatives of international companies; energy, education, financial, government, manufacturing,  transportation,  oil & gas industries
+
+## Education
+
+**2002 –2003**, Belarusian State University of Informatics and Radioelectronics (BSUIR)
+Master’s Degree in Telecommunication Networks\
+**1999-2002**, BSUIR, University Degree in radioelectronics design and technology;\
+**1994-1999**, Minsk State High Radiotechnical College, Engineer of radioelectronics design and technology\
+**2019**, Complete Web Developer Course on <https://udemy.com>
+
+## English
+
+Pre-Intermediate/Intermediate
