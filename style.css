@@ -1,0 +1,51 @@
+        div.container {
+            background-color: rgb(221, 221, 221);
+            width: 80%;
+            margin: auto;
+        }
+        .photo {
+            float: left;
+            width: 150px;
+            padding: 20px;
+         }
+        div.clear{      
+        clear: both;
+        }
+        img.photo1 {
+         width:150px;
+        }
+        h1 {
+            padding-top: 20px;
+        }
+        main {
+            padding-left: 20px;
+        }
+        code { 
+            background-color: yellow; 
+        }
+        section {
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        img.logo_rss {
+            width:100px;
+        }
+        footer.main-footer {
+            background-color: gray;
+            padding: 20px;
+            height: 50px;
+        }
+        div.MyGitHUb {
+            float:left;
+            width: 30%;
+        }
+        div.school_logo {
+            float:left;
+            width: 40%;
+            text-align: center;
+        }
+        div.copyright {
+            float:right;
+            width: 30%;
+            text-align: right;
+        }
